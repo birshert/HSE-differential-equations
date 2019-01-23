@@ -1,6 +1,8 @@
 # Differential-equations-HSE2019
 HSE CS AMI course of differential equations
 
+[Main course book](http://math-info.hse.ru/odebook/#top)
+
 Lectures and seminars:
 
 ### 1. 14.01.19
