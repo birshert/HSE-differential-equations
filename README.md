@@ -14,7 +14,7 @@ Lectures and seminars:
 
 [sem 1 tasks](http://math-info.hse.ru/a/2018-19/cs-ode/seminar01.pdf)
 
-[sem 1 solutions](https://github.com/birshert/Differential-equations-HSE2019/blob/master/List%201.pdf)
+[sem 1 solutions](https://github.com/birshert/Differential-equations-HSE2019/blob/master/Sem%20solutions/List%201.pdf)
 
 [sem 1 Anton Ayzenberg (youtube)](https://youtu.be/VzVUW-K78pY)
 
