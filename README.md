@@ -14,7 +14,7 @@ HSE CS AMI course of differential equations
   1. [Lecture 1 Ilya Schurov (youtube)](https://youtu.be/j4HehpY3Eng)
   
 #### Seminars
-  1. [Seminar 1 (tasks)]("http://math-info.hse.ru/a/2018-19/cs-ode/seminar01.pdf" target="_blank)
+  1. [Seminar 1 (tasks)](http://math-info.hse.ru/a/2018-19/cs-ode/seminar01.pdf)
   1. [Seminar 1 (solutions)](https://github.com/birshert/Differential-equations-HSE2019/blob/master/Sem%20solutions/List%201.pdf)
   1. [Seminar 1 Anton Ayzenberg (youtube)](https://youtu.be/VzVUW-K78pY)
 
