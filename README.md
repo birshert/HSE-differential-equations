@@ -2,6 +2,7 @@
 HSE CS AMI course of differential equations
 
 ---
+Press Ctrl + lcm to open the links
 
 [Main course book](http://math-info.hse.ru/odebook/#top/)
 
