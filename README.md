@@ -4,9 +4,7 @@ HSE CS AMI course of differential equations
 ---
 
 [Main course book](http://math-info.hse.ru/odebook/#top/)
-<dl>
-  <a href="http://www.hyperlinkcode.com/new-window.php" target="_blank">new<\a>
-<\dl>
+<a href="http://www.hyperlinkcode.com/new-window.php" target="_blank">New Browser Window</a>
 ## Lectures and seminars  
 
 ### 14.01.19
