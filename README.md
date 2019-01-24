@@ -34,3 +34,5 @@ Press Ctrl + lmb to open the links
 
 #### Some hacks for lazy people:
   1. [Wolframalpha](https://www.wolframalpha.com) - just enter the equation as it is, get the solution, get the slope field, get the exact solution if you know starting point
+  ![](https://github.com/birshert/Differential-equations-HSE2019/blob/master/img/Sample%201.png)
+  ![](https://github.com/birshert/Differential-equations-HSE2019/blob/master/img/Sample%202.png)
