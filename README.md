@@ -3,7 +3,7 @@ HSE CS AMI course of differential equations
 
 ---
 
-[Main course book](http://math-info.hse.ru/odebook/#top/?target=_blank)
+[Main course book](http://math-info.hse.ru/odebook/#top/){target = "_ blank"}
 
 ## Lectures and seminars  
 
