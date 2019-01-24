@@ -31,3 +31,6 @@ Press Ctrl + lmb to open the links
   1. Seminar 2 Anton Ayzenberg upcoming...
   
 ---
+
+#### Some hacks for lazy people:
+  1. [Wolframalpha](https://www.wolframalpha.com) - just enter the equation as it is, get the solution, get the slope field, get the exact solution if you know starting point
