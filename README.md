@@ -11,8 +11,8 @@ HSE CS AMI course of differential equations
   <title>Ссылки</title>
  </head>
  <body>
-  <p><a href="1.html">Ссылка откроется в этом окне</a></p>
-  <p><a href="2.html" target="_blank">Ссылка откроется в новом окне</a></p>
+  <p><a href="http://math-info.hse.ru/odebook">Ссылка откроется в этом окне</a></p>
+  <p><a href="http://math-info.hse.ru/odebook/chapter/label/chap:2:auto" target="_blank">Ссылка откроется в новом окне</a></p>
  </body>
 </html>
 
