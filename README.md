@@ -28,7 +28,7 @@ Press Ctrl + lmb to open the links
 #### Seminars
   1. [Seminar 2 (tasks)](http://math-info.hse.ru/a/2018-19/cs-ode/seminar02.pdf)
   1. Seminar 2 (solutions) upcoming...
-  1. Seminar 2 Anton Ayzenberg upcoming...
+  1. [Seminar 2 Anton Ayzenberg (youtube)](https://youtu.be/e8CFojou0Ps)
 
 ### 27.01.2019
 #### Lectures
