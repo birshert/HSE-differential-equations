@@ -38,11 +38,11 @@ Last update 04.02.2019 14:00
 ### 27.01.2019
 #### Lectures
   1. [Lecture pages](http://math-info.hse.ru/odebook/chapter/label/chap:3:eu/#label_chap_3_eu)
-  1. [Lecture 3 Ilya Schurov](https://youtu.be/IAoUGFxv-Uk)
+  1. [Lecture 3 Ilya Schurov (youtube)](https://youtu.be/IAoUGFxv-Uk)
 #### Seminars
   1. [Seminar 3 (tasks)](http://math-info.hse.ru/a/2018-19/cs-ode/seminar03.pdf)
   1. Seminar 3 (solutions) upcoming...
-  1. [Seminar 3 Anton Ayzenberg](https://youtu.be/mkn0KnSxMTQ)
+  1. [Seminar 3 Anton Ayzenberg (youtube)](https://youtu.be/mkn0KnSxMTQ)
 ---
 
 #### Some hacks for lazy people:
