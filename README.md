@@ -35,14 +35,25 @@ Last update 04.02.2019 14:00
   1. [Seminar 2 (solutions)](https://github.com/birshert/Differential-equations-HSE2019/blob/master/Sem%20solutions/List%202.pdf)
   1. [Seminar 2 Anton Ayzenberg (youtube)](https://youtu.be/e8CFojou0Ps)
 
-### 27.01.2019
+### 28.01.2019
 #### Lectures
-  1. [Lecture pages](http://math-info.hse.ru/odebook/chapter/label/chap:3:eu/#label_chap_3_eu)
+  1. [Lecture 3 pages](http://math-info.hse.ru/odebook/chapter/label/chap:3:eu/#label_chap_3_eu)
   1. [Lecture 3 Ilya Schurov (youtube)](https://youtu.be/IAoUGFxv-Uk)
 #### Seminars
   1. [Seminar 3 (tasks)](http://math-info.hse.ru/a/2018-19/cs-ode/seminar03.pdf)
   1. Seminar 3 (solutions) upcoming...
   1. [Seminar 3 Anton Ayzenberg (youtube)](https://youtu.be/mkn0KnSxMTQ)
+  
+### 04.02.2019
+#### Lectures
+  1. [Lecture 4 pages](http://math-info.hse.ru/odebook/chapter/label/chap:4:phasespace/#label_chap_4_phasespace)
+  1. Lecture 4 Ilya Shurov upcoming...
+  
+#### Seminars
+  1. [Seminar 4 (tasks)](http://math-info.hse.ru/a/2018-19/cs-ode/seminar04.pdf)
+  1. Seminar 4 (solutions) upcoming...
+  1. Seminar 4 Anton Ayzenberg upcoming...
+  
 ---
 
 #### Some hacks for lazy people:
