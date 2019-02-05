@@ -6,7 +6,7 @@ Please press Ctrl + lmb to open the links
 
 Bag reports, issues and questions - [telegram me](https://t.me/Bitchert)
 
-Last update 05.02.2019 16:00
+Last update 06.02.2019 00:00
 
 ---
 [Main course book](http://math-info.hse.ru/odebook/#top/)
@@ -47,7 +47,7 @@ Last update 05.02.2019 16:00
 ### 04.02.2019
 #### Lectures
   1. [Lecture 4 pages](http://math-info.hse.ru/odebook/chapter/label/chap:4:phasespace/#label_chap_4_phasespace)
-  1. Lecture 4 Ilya Shurov upcoming...
+  1. [Lecture 4 Ilya Shurov](https://youtu.be/hhlcNhmVPt4)
   
 #### Seminars
   1. [Seminar 4 (tasks)](http://math-info.hse.ru/a/2018-19/cs-ode/seminar04.pdf)
