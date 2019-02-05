@@ -6,7 +6,7 @@ Please press Ctrl + lmb to open the links
 
 Bag reports, issues and questions - [telegram me](https://t.me/Bitchert)
 
-Last update 04.02.2019 14:00
+Last update 05.02.2019 16:00
 
 ---
 [Main course book](http://math-info.hse.ru/odebook/#top/)
