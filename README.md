@@ -6,7 +6,7 @@ Please press Ctrl + lmb to open the links
 
 Bag reports, issues and questions - [telegram me](https://t.me/Bitchert)
 
-Last update 06.02.2019 00:00
+Last update 07.02.2019 18:30
 
 Added some [code examples](https://github.com/birshert/Differential-equations-HSE2019/tree/master/Code%20Examples) (only a few), mb can help someone with 1 HW
 
@@ -43,7 +43,8 @@ Added some [code examples](https://github.com/birshert/Differential-equations-HS
   1. [Lecture 3 Ilya Schurov (youtube)](https://youtu.be/IAoUGFxv-Uk)
 #### Seminars
   1. [Seminar 3 (tasks)](http://math-info.hse.ru/a/2018-19/cs-ode/seminar03.pdf)
-  1. Seminar 3 (solutions) upcoming...
+  1. [Seminar 3 (solutions)](https://github.com/birshert/Differential-equations-HSE2019/blob/master/Sem%20solutions/List%203.pdf)
+  1. [Seminar 3 task 5 code](https://github.com/birshert/Differential-equations-HSE2019/blob/master/Code%20Examples/Sem%20list3%2C%20task5.md)
   1. [Seminar 3 Anton Ayzenberg (youtube)](https://youtu.be/mkn0KnSxMTQ)
   
 ### 04.02.2019
