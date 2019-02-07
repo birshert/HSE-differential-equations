@@ -76,7 +76,7 @@ draw(func1, data_t1)
 ```
 
 
-![png](output_3_0.png)
+![png](https://github.com/birshert/Differential-equations-HSE2019/blob/master/Code%20Examples/img/output_3_0.png)
 
 
 
@@ -87,7 +87,7 @@ draw(func2, data_t2)
 ```
 
 
-![png](output_4_0.png)
+![png](https://github.com/birshert/Differential-equations-HSE2019/blob/master/Code%20Examples/img/output_4_0.png)
 
 
 
@@ -98,7 +98,7 @@ draw(func3, data_t3)
 ```
 
 
-![png](output_5_0.png)
+![png](https://github.com/birshert/Differential-equations-HSE2019/blob/master/Code%20Examples/img/output_5_0.png)
 
 
 
@@ -109,5 +109,5 @@ draw(func4, data_t4)
 ```
 
 
-![png](output_6_0.png)
+![png](https://github.com/birshert/Differential-equations-HSE2019/blob/master/Code%20Examples/img/output_6_0.png)
 
