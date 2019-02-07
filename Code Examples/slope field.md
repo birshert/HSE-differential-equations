@@ -1,7 +1,7 @@
 # Slope field
 
 ---
-
+Import some stuff
 ```python
 from __future__ import print_function
 import numpy as np
@@ -14,7 +14,7 @@ warnings.filterwarnings('ignore')   # silent mode
 ```
 
 ---
-
+Your func, gonna change it due to task
 ```python
 def func(t, x, der = True, x0 = None):
     if (der):
@@ -26,7 +26,7 @@ def func(t, x, der = True, x0 = None):
             return -true_f(x) #
 ```
 ---
-
+Main work
 ```python
 dots = np.linspace(-5, 5, 40)
 
@@ -62,3 +62,7 @@ plt.grid(True)
 plt.legend(prop={'size': 15})
 plt.show()
 ```
+---
+
+Looking kinda this:
+![](https://github.com/birshert/Differential-equations-HSE2019/blob/master/img/Sample%203.png)
