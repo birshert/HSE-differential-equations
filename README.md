@@ -8,6 +8,8 @@ Bag reports, issues and questions - [telegram me](https://t.me/Bitchert)
 
 Last update 06.02.2019 00:00
 
+Added some code examples (only a few), mb can help someone with 1 HW
+
 ---
 [Main course book](http://math-info.hse.ru/odebook/#top/)
 
