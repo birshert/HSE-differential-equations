@@ -57,6 +57,16 @@ Added some [code examples](https://github.com/birshert/Differential-equations-HS
   1. Seminar 4 (solutions) upcoming...
   1. Seminar 4 Anton Ayzenberg upcoming...
   
+### 11.02.2019
+#### Lectures
+  1. [Lecture 5 pages](http://math-info.hse.ru/odebook/chapter/label/chap:5:multidim/#label_chap_5_multidim)
+  1. Lecture 5 never upcoming (creds to Fedya)
+  
+#### Seminars
+  1. [Seminar 5 tasks](http://math-info.hse.ru/a/2018-19/cs-ode/seminar05.pdf)
+  1. Seminar 5 solutions upcoming...
+  1. Seminar 5 Anton Ayzenberg upcoming...
+  
 ---
 
 #### Some hacks for lazy people:
