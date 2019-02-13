@@ -8,8 +8,6 @@ Bag reports, issues and questions - [telegram me](https://t.me/Bitchert)
 
 Last update 12.02.2019 09:00
 
-Added some [code examples](https://github.com/birshert/Differential-equations-HSE2019/tree/master/Code%20Examples) (only a few), mb can help someone with 1 HW
-
 ---
 [Main course book](http://math-info.hse.ru/odebook/#top/)
 
@@ -65,7 +63,7 @@ Added some [code examples](https://github.com/birshert/Differential-equations-HS
 #### Seminars
   1. [Seminar 5 (tasks)](http://math-info.hse.ru/a/2018-19/cs-ode/seminar05.pdf)
   1. Seminar 5 (solutions) upcoming...
-  1. Seminar 5 Anton Ayzenberg upcoming...
+  1. Seminar 5 Anton Ayzenberg never upcoming (creds to Fedya)
   
 ---
 
