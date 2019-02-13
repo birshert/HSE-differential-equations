@@ -66,9 +66,3 @@ Last update 12.02.2019 09:00
   1. Seminar 5 Anton Ayzenberg never upcoming (creds to Fedya)
   
 ---
-
-#### Some hacks for lazy people:
-  1. [Wolframalpha](https://www.wolframalpha.com) - just enter the equation as it is, get the solution, get the slope field, get the exact solution if you know starting point
-  
-  ![](https://github.com/birshert/Differential-equations-HSE2019/blob/master/img/Sample%201.png)
-  ![](https://github.com/birshert/Differential-equations-HSE2019/blob/master/img/Sample%202.png)
