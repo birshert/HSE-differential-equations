@@ -52,7 +52,7 @@ Last update 12.02.2019 09:00
   
 #### Seminars
   1. [Seminar 4 (tasks)](http://math-info.hse.ru/a/2018-19/cs-ode/seminar04.pdf)
-  1. Seminar 4 (solutions) upcoming...
+  1. [Seminar 4 (solutions)](https://github.com/birshert/Differential-equations-HSE2019/blob/master/Sem%20solutions/List4.pdf)
   1. [Seminar 4 Anton Ayzenberg (youtube)](https://www.youtube.com/watch?v=Qp-8OPQnxSs)
   
 ### 11.02.2019
