@@ -2,11 +2,9 @@
 HSE CS AMI course of differential equations
 
 ---
-Please press Ctrl + lmb to open the links
-
 Bag reports, issues and questions - [telegram me](https://t.me/Bitchert)
 
-Last update 12.02.2019 09:00
+Last update 18.02.2019 18:00
 
 ---
 [Main course book](http://math-info.hse.ru/odebook/#top/)
