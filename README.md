@@ -46,7 +46,7 @@ Last update 18.02.2019 18:00
 ### 04.02.2019
 #### Lectures
   1. [Lecture 4 pages](http://math-info.hse.ru/odebook/chapter/label/chap:4:phasespace/#label_chap_4_phasespace)
-  1. [Lecture 4 Ilya Shurov](https://youtu.be/hhlcNhmVPt4)
+  1. [Lecture 4 Ilya Shurov (youtube)](https://youtu.be/hhlcNhmVPt4)
   
 #### Seminars
   1. [Seminar 4 (tasks)](http://math-info.hse.ru/a/2018-19/cs-ode/seminar04.pdf)
@@ -63,4 +63,14 @@ Last update 18.02.2019 18:00
   1. Seminar 5 (solutions) upcoming...
   1. Seminar 5 Anton Ayzenberg never upcoming (creds to Fedya)
   
+  
+### 18.02.2019
+#### Lectures
+  1. [Lecture 6 pages](http://math-info.hse.ru/odebook/chapter/label/chap:6:firstint/#label_sec_6_fulldiff)
+  1. Lecture 6 Ilya Shurov upcoming...
+  
+#### Seminars
+  1. [Seminar 6 (tasks)](http://math-info.hse.ru/a/2018-19/cs-ode/seminar06.pdf)
+  1. Seminar 6 (solutions) upcoming...
+  1. Seminar 6 Anton Ayzenberg upcoming...
 ---
