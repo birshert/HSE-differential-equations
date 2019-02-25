@@ -60,7 +60,7 @@ Last update 18.02.2019 18:00
   
 #### Seminars
   1. [Seminar 5 (tasks)](http://math-info.hse.ru/a/2018-19/cs-ode/seminar05.pdf)
-  1. [Seminar 5 (solutions)]((https://github.com/birshert/Differential-equations-HSE2019/blob/master/Sem%20solutions/List%205.pdf))
+  1. [Seminar 5 (solutions)](https://github.com/birshert/Differential-equations-HSE2019/blob/master/Sem%20solutions/List%205.pdf)
   1. Seminar 5 Anton Ayzenberg never upcoming (creds to Fedya)
   
   
