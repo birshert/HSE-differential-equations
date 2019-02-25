@@ -72,7 +72,7 @@ Last update 18.02.2019 18:00
 #### Seminars
   1. [Seminar 6 (tasks)](http://math-info.hse.ru/a/2018-19/cs-ode/seminar06.pdf)
   1. Seminar 6 (solutions) upcoming...
-  1. Seminar 6 Anton Ayzenberg upcoming...
+  1. [Seminar 6 Anton Ayzenberg (youtube)](https://www.youtube.com/watch?v=msgWnqn_-Fk&list=PLK4MMyYsjOvrGhRiZ9af78o7YZqxBR8Zq&index=7)
   
   
 ### 25.02.2019
