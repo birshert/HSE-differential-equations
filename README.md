@@ -67,7 +67,7 @@ Last update 25.02.2019 23:00
 ### 18.02.2019
 #### Lectures
   1. [Lecture 6 pages](http://math-info.hse.ru/odebook/chapter/label/chap:6:firstint/#label_sec_6_fulldiff)
-  1. Lecture 6 Ilya Shurov upcoming...
+  1. [Lecture 6 Ilya Shurov (youtube)](https://www.youtube.com/watch?v=8mQWJvo5css&list=PLK4MMyYsjOvrivl8AOnQQabZaCB-l_Hvm&index=5)
   
 #### Seminars
   1. [Seminar 6 (tasks)](http://math-info.hse.ru/a/2018-19/cs-ode/seminar06.pdf)
