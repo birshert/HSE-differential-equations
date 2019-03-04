@@ -4,7 +4,7 @@ HSE CS AMI course of differential equations
 ---
 Bag reports, issues and questions - [telegram me](https://t.me/Bitchert)
 
-Last update 25.02.2019 23:00
+Last update 4.03.2019 17:30
 
 ---
 [Main course book](http://math-info.hse.ru/odebook/#top/)
@@ -78,10 +78,10 @@ Last update 25.02.2019 23:00
 ### 25.02.2019
 #### Lectures
   1. [Lecture 7 pages](http://math-info.hse.ru/odebook/chapter/label/chap:6:firstint/#label_section_number_6_2)
-  1. Lecture 7 Ilya Shurov upcoming...
+  1. [Lecture 7 Ilya Shurov (youtube)](https://www.youtube.com/watch?v=c_iwCUm3w_c)
   
 #### Seminars
   1. [Seminar 7 (tasks)](http://math-info.hse.ru/a/2018-19/cs-ode/seminar07.pdf)
   1. Seminar 7 (solutions) upcoming...
-  1. Seminar 7 Anton Ayzenberg upcoming...
+  1. [Seminar 7 Anton Ayzenberg (youtube)](https://www.youtube.com/watch?v=QB5JmgEfHiw&list=PLK4MMyYsjOvrGhRiZ9af78o7YZqxBR8Zq&index=8)
 ---
