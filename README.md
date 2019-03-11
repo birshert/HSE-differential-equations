@@ -11,7 +11,7 @@ Last update 4.03.2019 17:30
 
 ## Lectures and seminars  
 
-### 04.03.2019
+### 04.03.2019 (8)
 #### Lectures
   1. [Lecture 8 pages](http://math-info.hse.ru/odebook/chapter/label/chap:7:cons/)
   1. [Lecture 8 Ilya Shurov (youtube)](https://www.youtube.com/watch?v=7uEySUMPgHA)
@@ -22,7 +22,7 @@ Last update 4.03.2019 17:30
   1. Seminar 8 Anton Ayzenberg (youtube) upcoming...
   
   
-### 25.02.2019
+### 25.02.2019 (7)
 #### Lectures
   1. [Lecture 7 pages](http://math-info.hse.ru/odebook/chapter/label/chap:6:firstint/#label_section_number_6_2)
   1. [Lecture 7 Ilya Shurov (youtube)](https://www.youtube.com/watch?v=c_iwCUm3w_c)
@@ -33,7 +33,7 @@ Last update 4.03.2019 17:30
   1. [Seminar 7 Anton Ayzenberg (youtube)](https://www.youtube.com/watch?v=QB5JmgEfHiw&list=PLK4MMyYsjOvrGhRiZ9af78o7YZqxBR8Zq&index=8)
   
   
-### 18.02.2019
+### 18.02.2019 (6)
 #### Lectures
   1. [Lecture 6 pages](http://math-info.hse.ru/odebook/chapter/label/chap:6:firstint/#label_sec_6_fulldiff)
   1. [Lecture 6 Ilya Shurov (youtube)](https://www.youtube.com/watch?v=8mQWJvo5css&list=PLK4MMyYsjOvrivl8AOnQQabZaCB-l_Hvm&index=5)
@@ -43,7 +43,7 @@ Last update 4.03.2019 17:30
   1. [Seminar 6 (solutions)](https://github.com/birshert/Differential-equations-HSE2019/blob/master/Sem%20solutions/List%206.pdf)
   1. [Seminar 6 Anton Ayzenberg (youtube)](https://www.youtube.com/watch?v=msgWnqn_-Fk&list=PLK4MMyYsjOvrGhRiZ9af78o7YZqxBR8Zq&index=7)
   
-### 11.02.2019
+### 11.02.2019 (5)
 #### Lectures
   1. [Lecture 5 pages](http://math-info.hse.ru/odebook/chapter/label/chap:5:multidim/#label_chap_5_multidim)
   1. Lecture 5 never upcoming (creds to Fedya)
@@ -53,7 +53,7 @@ Last update 4.03.2019 17:30
   1. [Seminar 5 (solutions)](https://github.com/birshert/Differential-equations-HSE2019/blob/master/Sem%20solutions/List%205.pdf)
   1. Seminar 5 Anton Ayzenberg never upcoming (creds to Fedya)
   
-### 04.02.2019
+### 04.02.2019 (4)
 #### Lectures
   1. [Lecture 4 pages](http://math-info.hse.ru/odebook/chapter/label/chap:4:phasespace/#label_chap_4_phasespace)
   1. [Lecture 4 Ilya Shurov (youtube)](https://youtu.be/hhlcNhmVPt4)
@@ -63,7 +63,7 @@ Last update 4.03.2019 17:30
   1. [Seminar 4 (solutions)](https://github.com/birshert/Differential-equations-HSE2019/blob/master/Sem%20solutions/List%204.pdf)
   1. [Seminar 4 Anton Ayzenberg (youtube)](https://www.youtube.com/watch?v=Qp-8OPQnxSs)
   
-### 28.01.2019
+### 28.01.2019 (3)
 #### Lectures
   1. [Lecture 3 pages](http://math-info.hse.ru/odebook/chapter/label/chap:3:eu/#label_chap_3_eu)
   1. [Lecture 3 Ilya Schurov (youtube)](https://youtu.be/IAoUGFxv-Uk)
@@ -73,7 +73,7 @@ Last update 4.03.2019 17:30
   1. [Seminar 3 task 5 code](https://github.com/birshert/Differential-equations-HSE2019/blob/master/Code%20Examples/Sem%20list3%2C%20task5.md)
   1. [Seminar 3 Anton Ayzenberg (youtube)](https://youtu.be/mkn0KnSxMTQ)
   
-### 21.01.19
+### 21.01.19 (2)
 #### Lectures
   1. [Lecture 2.1 pages](http://math-info.hse.ru/odebook/chapter/label/chap:2:auto/#label_h2_number_2_2)
   1. [Lecture 2.2 pages](http://math-info.hse.ru/odebook/chapter/label/chap:3:eu/#label_sec_3_sep-var)
@@ -84,7 +84,7 @@ Last update 4.03.2019 17:30
   1. [Seminar 2 (solutions)](https://github.com/birshert/Differential-equations-HSE2019/blob/master/Sem%20solutions/List%202.pdf)
   1. [Seminar 2 Anton Ayzenberg (youtube)](https://youtu.be/e8CFojou0Ps)
 
-### 14.01.19
+### 14.01.19 (1)
 #### Lectures
   1. [Lecture 1.1 pages](http://math-info.hse.ru/odebook) 
   1. [Lecture 1.2 pages](http://math-info.hse.ru/odebook/chapter/label/chap:2:auto) 
