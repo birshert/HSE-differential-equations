@@ -82,6 +82,16 @@ Last update 4.03.2019 17:30
   
 #### Seminars
   1. [Seminar 7 (tasks)](http://math-info.hse.ru/a/2018-19/cs-ode/seminar07.pdf)
-  1. Seminar 7 (solutions) upcoming...
+  1. [Seminar 7 (solutions)](https://github.com/birshert/Differential-equations-HSE2019/blob/master/Sem%20solutions/List%207.pdf)
   1. [Seminar 7 Anton Ayzenberg (youtube)](https://www.youtube.com/watch?v=QB5JmgEfHiw&list=PLK4MMyYsjOvrGhRiZ9af78o7YZqxBR8Zq&index=8)
+  
+### 04.03.2019
+#### Lectures
+  1. [Lecture 8 pages](http://math-info.hse.ru/odebook/chapter/label/chap:7:cons/)
+  1. [Lecture 8 Ilya Shurov (youtube)](https://www.youtube.com/watch?v=7uEySUMPgHA)
+  
+#### Seminars
+  1. [Seminar 8 (tasks)](http://math-info.hse.ru/a/2018-19/cs-ode/seminar08.pdf)
+  1. Seminar 8 (solutions) upcoming...
+  1. Seminar 7 Anton Ayzenberg (youtube) upcoming...
 ---
