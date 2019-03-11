@@ -11,6 +11,16 @@ Last update 11.03.2019 19:25
 
 ## Lectures and seminars  
 
+### 11.03.2019 (9)
+#### Lectures
+  1. [Lecture 9 pages](http://math-info.hse.ru/odebook/chapter/label/chap:8:rect/#label_chap_8_rect)
+  1. Lecture 9 Ilya Shurov (youtube) upcoming...
+  
+#### Seminars
+  1. [Seminar 9 (tasks)](http://math-info.hse.ru/a/2018-19/cs-ode/seminar09.pdf)
+  1. Seminar 9 (solutions) upcoming...
+  1. Seminar 9 Anton Ayzenberg (youtube) upcoming...
+
 ### 04.03.2019 (8)
 #### Lectures
   1. [Lecture 8 pages](http://math-info.hse.ru/odebook/chapter/label/chap:7:cons/)
