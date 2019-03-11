@@ -4,7 +4,7 @@ HSE CS AMI course of differential equations
 ---
 Bag reports, issues and questions - [telegram me](https://t.me/Bitchert)
 
-Last update 4.03.2019 17:30
+Last update 11.03.2019 19:25
 
 ---
 [Main course book](http://math-info.hse.ru/odebook/#top/)
