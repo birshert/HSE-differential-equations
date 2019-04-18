@@ -11,15 +11,45 @@ Last update 11.03.2019 19:25
 
 ## Lectures and seminars  
 
+### 15.04.2019 (12)
+#### Lectures
+  1. [Lecture 12 pages](http://math-info.hse.ru/odebook/chapter/label/chap:10:linear-systems/#label_subsection_number_10_2_7)
+  1. [Lecture 12 Ilya Shurov (youtube)](https://youtu.be/quErSywvAhE)
+  
+#### Seminars
+  1. [Seminar 12 (tasks)](http://math-info.hse.ru/a/2018-19/cs-ode/seminar12.pdf)
+  1. [Seminar 12 Anton Ayzenberg (youtube)](https://youtu.be/bl0j3NZxa90)
+
+
+### 01.04.2019 (11)
+#### Lectures
+  1. [Lecture 11 pages](http://math-info.hse.ru/odebook/chapter/label/chap:10:linear-systems/#label_chap_10_linear-systems)
+  1. [Lecture 11 Ilya Shurov (youtube)](https://youtu.be/M5IwD5zSpzQ)
+  
+#### Seminars
+  1. [Seminar 11 (tasks)](http://math-info.hse.ru/a/2018-19/cs-ode/seminar11.pdf)
+  1. [Seminar 11 Anton Ayzenberg (youtube)](https://youtu.be/scNCHcNY9H8)
+
+
+### 18.03.2019 (10)
+#### Lectures
+  1. [Lecture 10 pages](http://math-info.hse.ru/odebook/chapter/label/chap:9:linear/)
+  1. [Lecture 10 Ilya Shurov (youtube)](https://www.youtube.com/watch?v=NYmM5aeJt1A&list=PLK4MMyYsjOvrivl8AOnQQabZaCB-l_Hvm&index=10&t=0s)
+#### Seminars
+  1. [Seminar 10 (tasks)](http://math-info.hse.ru/a/2018-19/cs-ode/seminar10.pdf)
+  1. [Seminar 10 (solutions)](https://github.com/birshert/Differential-equations-HSE2019/blob/master/Sem%20solutions/List%2010.pdf)
+  1. [Seminar 10 Anton Ayzenberg (youtube)](https://youtu.be/dAkZ4LoxpL4)
+
+
 ### 11.03.2019 (9)
 #### Lectures
   1. [Lecture 9 pages](http://math-info.hse.ru/odebook/chapter/label/chap:8:rect/#label_chap_8_rect)
-  1. Lecture 9 Ilya Shurov (youtube) upcoming...
+  1. [Lecture 9 Ilya Shurov (youtube)](https://www.youtube.com/watch?v=NG6mv3h5jRY&list=PLK4MMyYsjOvrivl8AOnQQabZaCB-l_Hvm&index=9&t=0s)
   
 #### Seminars
   1. [Seminar 9 (tasks)](http://math-info.hse.ru/a/2018-19/cs-ode/seminar09.pdf)
-  1. Seminar 9 (solutions) upcoming...
-  1. Seminar 9 Anton Ayzenberg (youtube) upcoming...
+  1. [Seminar 9 Anton Ayzenberg (youtube)](https://youtu.be/AxUxLcMk2qU)
+
 
 ### 04.03.2019 (8)
 #### Lectures
@@ -28,8 +58,7 @@ Last update 11.03.2019 19:25
   
 #### Seminars
   1. [Seminar 8 (tasks)](http://math-info.hse.ru/a/2018-19/cs-ode/seminar08.pdf)
-  1. Seminar 8 (solutions) upcoming...
-  1. Seminar 8 Anton Ayzenberg (youtube) upcoming...
+  1. [Seminar 8 Anton Ayzenberg (youtube)](https://youtu.be/Dbjtpiyuu9s)
   
   
 ### 25.02.2019 (7)
@@ -53,6 +82,7 @@ Last update 11.03.2019 19:25
   1. [Seminar 6 (solutions)](https://github.com/birshert/Differential-equations-HSE2019/blob/master/Sem%20solutions/List%206.pdf)
   1. [Seminar 6 Anton Ayzenberg (youtube)](https://www.youtube.com/watch?v=msgWnqn_-Fk&list=PLK4MMyYsjOvrGhRiZ9af78o7YZqxBR8Zq&index=7)
   
+  
 ### 11.02.2019 (5)
 #### Lectures
   1. [Lecture 5 pages](http://math-info.hse.ru/odebook/chapter/label/chap:5:multidim/#label_chap_5_multidim)
@@ -63,6 +93,7 @@ Last update 11.03.2019 19:25
   1. [Seminar 5 (solutions)](https://github.com/birshert/Differential-equations-HSE2019/blob/master/Sem%20solutions/List%205.pdf)
   1. Seminar 5 Anton Ayzenberg never upcoming (creds to Fedya)
   
+  
 ### 04.02.2019 (4)
 #### Lectures
   1. [Lecture 4 pages](http://math-info.hse.ru/odebook/chapter/label/chap:4:phasespace/#label_chap_4_phasespace)
@@ -72,7 +103,8 @@ Last update 11.03.2019 19:25
   1. [Seminar 4 (tasks)](http://math-info.hse.ru/a/2018-19/cs-ode/seminar04.pdf)
   1. [Seminar 4 (solutions)](https://github.com/birshert/Differential-equations-HSE2019/blob/master/Sem%20solutions/List%204.pdf)
   1. [Seminar 4 Anton Ayzenberg (youtube)](https://www.youtube.com/watch?v=Qp-8OPQnxSs)
-  
+ 
+ 
 ### 28.01.2019 (3)
 #### Lectures
   1. [Lecture 3 pages](http://math-info.hse.ru/odebook/chapter/label/chap:3:eu/#label_chap_3_eu)
@@ -82,6 +114,7 @@ Last update 11.03.2019 19:25
   1. [Seminar 3 (solutions)](https://github.com/birshert/Differential-equations-HSE2019/blob/master/Sem%20solutions/List%203.pdf)
   1. [Seminar 3 task 5 code](https://github.com/birshert/Differential-equations-HSE2019/blob/master/Code%20Examples/Sem%20list3%2C%20task5.md)
   1. [Seminar 3 Anton Ayzenberg (youtube)](https://youtu.be/mkn0KnSxMTQ)
+  
   
 ### 21.01.19 (2)
 #### Lectures
@@ -93,6 +126,7 @@ Last update 11.03.2019 19:25
   1. [Seminar 2 (tasks)](http://math-info.hse.ru/a/2018-19/cs-ode/seminar02.pdf)
   1. [Seminar 2 (solutions)](https://github.com/birshert/Differential-equations-HSE2019/blob/master/Sem%20solutions/List%202.pdf)
   1. [Seminar 2 Anton Ayzenberg (youtube)](https://youtu.be/e8CFojou0Ps)
+
 
 ### 14.01.19 (1)
 #### Lectures
