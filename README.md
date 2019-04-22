@@ -2,7 +2,7 @@
 HSE CS AMI course of differential equations
 
 ---
-Bag reports, issues and questions - [telegram me](https://t.me/Bitchert)
+Bug reports, issues and questions - [telegram me](https://t.me/Bitchert)
 
 Last update 11.03.2019 19:25
 
