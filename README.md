@@ -4,12 +4,59 @@ HSE CS AMI course of differential equations
 ---
 Bug reports, issues and questions - [telegram me](https://t.me/Bitchert)
 
-Last update 11.03.2019 19:25
+Last update 28.05.2019 8:30
 
 ---
 [Main course book](http://math-info.hse.ru/odebook/#top/)
 
 ## Lectures and seminars  
+
+### 27.05.2019 (17)
+#### Lectures
+  1. Lecture 17 pages -  Производная уравнений по начальному условию и параметрам. (См. Филиппов, параграф 18.) Линейные системы с переменными коэффициентами. (См. Арнольд, параграф 27.).
+  1. Lecture 17 Ilya Shurov (youtube) upcoming...
+  
+#### Seminars
+  1. [Seminar 17 (tasks)](http://math-info.hse.ru/a/2018-19/cs-ode/seminar17.pdf)
+  1. Seminar 17 Anton Ayzenberg (youtube) upcoming...
+
+### 20.05.2019 (16)
+#### Lectures
+  1. [Lecture 16 pages](http://math-info.hse.ru/odebook/chapter/label/chap:14:twodim-bifurc/#label_chap_14_twodim-bifurc)
+  1. [Lecture 16 Ilya Shurov (youtube)](https://www.youtube.com/watch?v=pgwcMr3z4qw)
+  
+#### Seminars 
+  1. [Seminar 16 (tasks)](http://math-info.hse.ru/a/2018-19/cs-ode/seminar16.pdf)
+  1. [Seminar 16 Anton Ayzenberg (youtube)](https://www.youtube.com/watch?v=oBkLE0nQCe8)
+
+### 13.05.2019 (15)
+#### Lectures
+  1. [Lecture 15 pages](http://math-info.hse.ru/odebook/chapter/label/chap:13:bifurc/#label_chap_13_bifurc)
+  1. [Lecture 15 Ilya Shurov (youtube)](https://youtu.be/XehdbtB6KqQ)
+  
+#### Seminars 
+  1. [Seminar 15 (tasks)](http://math-info.hse.ru/a/2018-19/cs-ode/seminar15.pdf)
+  1. [Seminar 15 Anton Ayzenberg (youtube)](https://youtu.be/5t1VNVoKw2U)
+
+### 29.04.2019 (14)
+#### Lectures
+  1. [Lecture 14 pages 1.1](http://math-info.hse.ru/odebook/chapter/label/chap:10prim:linearization/#label_chap_10prim_linearization)
+  1. [Lecture 14 pages 1.2](http://math-info.hse.ru/odebook/chapter/label/chap:12:stability/#label_chap_12_stability)
+  1. [Lecture 14 Ilya Shurov (youtube)](https://youtu.be/f3tF0X7yv3Q)
+  
+#### Seminars
+  1. [Seminar 14 (tasks)](http://math-info.hse.ru/a/2018-19/cs-ode/seminar14.pdf)
+  1. Seminar 14 Anton Ayzenberg (youtube) upcoming...
+
+
+### 22.04.2019 (13)
+#### Lectures
+  1. [Lecture 13 pages](http://math-info.hse.ru/odebook/chapter/label/chap:11:multidim-linear/#label_chap_11_multidim-linear)
+  1. [Lecture 13 Ilya Shurov (youtube)](https://youtu.be/HqlUXa6WMpA)
+  
+#### Seminars
+  1. [Seminar 13 (tasks)](http://math-info.hse.ru/a/2018-19/cs-ode/seminar13.pdf)
+  1. [Seminar 13 Anton Ayzenberg (youtube)](https://youtu.be/Jd0NKZeR5oE)
 
 ### 15.04.2019 (12)
 #### Lectures
