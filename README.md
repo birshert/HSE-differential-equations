@@ -11,14 +11,23 @@ Last update 28.05.2019 8:30
 
 ## Lectures and seminars  
 
+### 03.06.2019 (18)
+#### Lectures
+  1. Lecture 18 pages -  [Отображение Пуанкаре.](https://ru.wikipedia.org/wiki/%D0%9E%D1%82%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%83%D0%B0%D0%BD%D0%BA%D0%B0%D1%80%D0%B5) Омега-предельное множество. Подкова Смейла. (См. параграф 2.2 в брошюре [Эволюционные процессы и философия общности положения](https://www.mccme.ru/free-books/dubna/ilyashenko-smale.pdf) Ю. С. Ильяшенко.)
+  1. [Lecture 18 Ilya Shurov (youtube)](https://youtu.be/OVbZ8xeLoew)
+  
+#### Seminars
+  1. [Seminar 18 (tasks)](http://math-info.hse.ru/a/2018-19/cs-ode/seminar18.pdf)
+  1. [Seminar 18 Anton Ayzenberg (youtube)](https://www.youtube.com/watch?v=u8DqcyoekFg)
+  
 ### 27.05.2019 (17)
 #### Lectures
   1. Lecture 17 pages -  Производная уравнений по начальному условию и параметрам. (См. Филиппов, параграф 18.) Линейные системы с переменными коэффициентами. (См. Арнольд, параграф 27.).
-  1. Lecture 17 Ilya Shurov (youtube) upcoming...
+  1. [Lecture 17 Ilya Shurov (youtube)](https://youtu.be/oZeJWfcqzCY)
   
 #### Seminars
   1. [Seminar 17 (tasks)](http://math-info.hse.ru/a/2018-19/cs-ode/seminar17.pdf)
-  1. Seminar 17 Anton Ayzenberg (youtube) upcoming...
+  1. [Seminar 17 Anton Ayzenberg (youtube)](https://youtu.be/RC5TR6_0VO0)
 
 ### 20.05.2019 (16)
 #### Lectures
@@ -46,7 +55,7 @@ Last update 28.05.2019 8:30
   
 #### Seminars
   1. [Seminar 14 (tasks)](http://math-info.hse.ru/a/2018-19/cs-ode/seminar14.pdf)
-  1. Seminar 14 Anton Ayzenberg (youtube) upcoming...
+  1. Seminar 14 Anton Ayzenberg (youtube) never upcoming (creds to Fedya)
 
 
 ### 22.04.2019 (13)
